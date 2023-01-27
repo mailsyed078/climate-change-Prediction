@@ -1,2 +1,2 @@
 # climate-change-Prediction
-The time series analysis has been to forecast the temperature in ahead years. The model has been developed and found to be effective
+The time series analysis such as ARIMA , SARIMAX, is used to predict the climate change across the globe.
